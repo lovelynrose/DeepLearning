@@ -27,7 +27,7 @@ model.add(Dense(1,activation='sigmoid'))
 #Compile the model
 model.compile(optimizer='SGD',loss='mean_squared_error',metrics=['accuracy'])
 
-
+#Try on simple AND function
 X=[[0,0],[0,1],[1,0],[1,1]]
 Y=[0,0,0,1]
 #Execute the model on some data
