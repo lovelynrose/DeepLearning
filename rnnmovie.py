@@ -1,5 +1,4 @@
-#http://machinelearningmastery.com/sequence-classification-lstm-recurrent-neural-networks-python-keras/
-#LSTM
+#Sentiment Analysis using simple RNN
 
 import numpy
 from keras.datasets import imdb
