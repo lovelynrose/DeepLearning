@@ -1,5 +1,4 @@
-#http://machinelearningmastery.com/sequence-classification-lstm-recurrent-neural-networks-python-keras/
-#LSTM
+#Program to classify sentiment using GRU
 
 import numpy
 from keras.datasets import imdb
